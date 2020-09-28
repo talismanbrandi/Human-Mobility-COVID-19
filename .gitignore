@@ -1,3 +1,9 @@
+# datasets
+datasets/2019/
+datasets/2020/
+datasets/placeToCBGMay.zip
+datasets/placeToCBGMay/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
